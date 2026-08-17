@@ -128,7 +128,7 @@ El proyecto debe incluir evidencias de:
 ## 🔗 Repositorio
 
 **GitHub:**
-[Agregar aquí la URL del repositorio]
+git@github.com:eduardoalvarez199501/clonacion_plataforma.git
 
 El repositorio debe ser **público** para permitir su revisión.
 
@@ -189,16 +189,16 @@ https://www.markdownguide.org/cheat-sheet/
 
 ### 👨‍💻 Autores
 
-**Eduardo Alvarez Alvarez**
-**Fernando Ruperto**
-**Christian Pinal Cordero**
-**Diego Gonzales Celis**
-**Fernanda Enriquez**
-**Mafer Vazquez**
-**Alberto Pedraza**
-**Devani Moreno**
-**Brian Enrique Pineda Martínez*
-**Jose Eduardo**
+** Eduardo Alvarez Alvarez**
+** Fernando Ruperto**
+** Christian Pinal Cordero**
+** Diego Gonzales Celis**
+** Fernanda Enriquez**
+** Mafer Vazquez**
+** Alberto Pedraza**
+** Devani Moreno**
+** Brian Enrique Pineda Martínez**
+** Jose Eduardo **
 
 Laboratorio Colaborativo — Clon de Plataforma Digital con Bootstrap
 
