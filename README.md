@@ -1,4 +1,4 @@
-# Eduardo Alvarez Alvarez
+# Equipo 3
 
 # 🎬 Laboratorio Colaborativo: Clon de Plataforma Digital con Bootstrap
 
@@ -82,16 +82,6 @@ main
 ├── feature/footer
 └── feature/responsive
 ```
-
----
-
-## 👨‍💻 Participación de Eduardo Alvarez Alvarez
-
-**Parte desarrollada:**
-
-* [Escribir aquí la sección desarrollada]
-* [Agregar funcionalidades realizadas]
-* [Agregar componentes Bootstrap utilizados]
 
 ### 💾 Commits realizados
 
@@ -197,9 +187,18 @@ https://www.markdownguide.org/cheat-sheet/
 
 ---
 
-### 👨‍💻 Autor
+### 👨‍💻 Autores
 
 **Eduardo Alvarez Alvarez**
+**Fernando Ruperto**
+**Christian Pinal Cordero**
+**Diego Gonzales Celis**
+**Fernanda Enriquez**
+**Mafer Vazquez**
+**Alberto Pedraza**
+**Devani Moreno**
+**Brian Enrique Pineda Martínez*
+**Jose Eduardo**
 
 Laboratorio Colaborativo — Clon de Plataforma Digital con Bootstrap
 
